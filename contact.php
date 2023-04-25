@@ -4,7 +4,7 @@
 if (isset($_POST['Email'])) {
 
     // EDIT THE FOLLOWING TWO LINES:
-    $email_to = "t2haev00@students.oamk.fi";
+    $email_to = "t2haev00 /breaking this code\ students.oamk.fi";
     $email_subject = "New form submissions";
 
     function problem($error)
